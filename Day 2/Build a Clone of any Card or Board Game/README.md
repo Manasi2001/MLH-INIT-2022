@@ -96,4 +96,6 @@ Each round consists of:
 
 **playGame:** Displays the grid background, initializes the starting tokens and now the game is ready to be played.
 
-### Othello Layout
+### Game Layout
+
+![o](https://user-images.githubusercontent.com/68627617/123771985-23879600-d8e9-11eb-9d29-08bf72ec25b4.png)
